@@ -1,0 +1,9 @@
+http://frnci.nien.com/* https://frnci.nien.com/:splat 301!
+https://frnci.netlify.app/* https://frnci.nien.com/:splat 301!
+
+/i/* https://i0.wp.com/frnci.nien.com/img/:splat?strip=all
+
+/wp-admin https://api.hearty.app/wp-admin 200
+/wp-login.php https://api.hearty.app/wp-admin 200
+
+/* https://go.hearty.me/hj 200
