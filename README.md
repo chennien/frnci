@@ -1,6 +1,7 @@
 # FRNCi - Friends and City 享旅科技有限公司
 
 [frnci.nien.com](https://frnci.nien.com) 
+[ec2-34-204-149-238.compute-1.amazonaws.com](http://ec2-34-204-149-238.compute-1.amazonaws.com) 
 
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/59f4f720-8c2f-471e-9020-3687b4fa1f89/deploy-status)](https://app.netlify.com/sites/frnci/deploys) 
